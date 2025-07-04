@@ -2,6 +2,10 @@
 
 A system that estimates the time and space complexity of Python code snippets using a hybrid approach combining Abstract Syntax Tree (AST) parsing with Large Language Model (LLM) analysis.
 
+## Architecture Diagrm
+![Architecture Diagram](arch.png)
+
+
 ## Features
 
 - **Hybrid Analysis**: Combines static AST parsing with AI-powered analysis
